@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://myreadme.vercel.app/api/embed/kunjesh04?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 [![kunjesh04's GitHub | Stats](https://stats.quine.sh/kunjesh04/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kunjesh04)
 
