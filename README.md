@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My name is <b>Kunjesh Panchal</b>, and I'm an ML Engineer at myOnsite Healthcare Pvt. Ltd., Vadodara, Gujarat, India.
 
-[![kunjesh04's GitHub | Stats](https://stats.quine.sh/kunjesh04/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kunjesh04)
+I'm strengthening my ML concepts while also learning MLOps.
 
-My name is <b>Kunjesh Panchal</b>, and I'm interested in pursuing AI/ML. I'm currently a Student at Parul University (India).
-
-I'm always looking for new challenges and opportunities to learn and grow. I'm also passionate about sharing my knowledge with others.
-
-In my spare time, I enjoy reading, hanging out, watching anime, and spending time with my family.
+In my spare time, I enjoy reading, hanging out, watching movies, and spending time with my family.
 
 Here are some of my links:
 
