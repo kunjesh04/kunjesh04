@@ -14,9 +14,6 @@ I'm **Kunjesh Panchal**, an **ML Engineer** at **myOnsite Healthcare Pvt. Ltd.**
 ### 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=kunjesh04&theme=radical)
 
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kunjesh04&theme=radical)
-
 ### 🌟 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunjesh04&layout=compact&theme=radical)
 
